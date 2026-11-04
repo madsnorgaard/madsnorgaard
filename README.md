@@ -16,7 +16,7 @@
 ### About me
 
 - Senior developer and DevOps engineer at **[Eksponent](https://eksponent.com)**, a Danish development agency.
-- Technical lead for **[South African History Online](https://www.sahistory.org.za)** since 2018, a long-term commitment to open knowledge.
+- Technical lead for **[South African History Online](https://www.sahistory.org.za)** since 2010, a long-term commitment to open knowledge.
 - I build headless CMS platforms, multi-tenant SaaS, and civic and municipal tech. Usually Drupal on the back, Vue and Nuxt on the front.
 - Documentary photographer on the side.
 - Currently deepening Nuxt 3 and headless Drupal 11 architectures.
