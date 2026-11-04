@@ -1,79 +1,23 @@
-<h1 align="center">Mads Nørgaard</h1>
+# Mads Nørgaard
 
-<p align="center">
-  <b>Senior Developer + DevOps Engineer</b><br>
-  Self-taught. 15 years building on Drupal, PHP, Docker and Linux. Based in Skanderborg, Denmark.
-</p>
+Senior developer and DevOps engineer at [Eksponent](https://eksponent.com), a Danish development agency. Based in Skanderborg, Denmark. Technical lead for [South African History Online](https://www.sahistory.org.za), which I do in the evenings and for free. Documentary photographer when there is time left.
 
-<p align="center">
-  <a href="https://madsnorgaard.net"><img src="https://img.shields.io/badge/Website-madsnorgaard.net-2563eb?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
-  <a href="mailto:mads@madsnorgaard.net"><img src="https://img.shields.io/badge/Email-mads@madsnorgaard.net-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mads-norgaard/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+Self-taught. Fifteen years of Drupal, PHP, Docker and Linux, and the last few of those with Nuxt in front of a headless Drupal. I run my own infrastructure and write about it at [madsnorgaard.net](https://madsnorgaard.net).
 
----
+## What I work on
 
-### About me
+- [South African History Online](https://www.sahistory.org.za) is a 25-year-old public history archive with no ads and a few million readers a year. I took it from Filezilla deployments and no Composer to Drupal 11, Solr, Redis and a proper pipeline. The code is public at [sahistory-web](https://github.com/South-African-History-Online/sahistory-web).
+- [ÅbenForms](https://github.com/madsnorgaard/AabenForms) is a forms and casework platform for Danish municipalities, Drupal 11 behind and Nuxt 3 in front, with MitID login and the KL integrations that make it usable in a kommune. Frontend at [aabenforms-frontend](https://github.com/madsnorgaard/aabenforms-frontend).
+- [AabenIntra](https://github.com/madsnorgaard/AabenIntra) is a Drupal 11 intranet for companies that want to host it themselves. Themed Drupal with small islands of interactivity, not a single-page app.
+- [drupal-agent-resources](https://github.com/madsnorgaard/drupal-agent-resources) is the set of skills, agents and commands I use to make coding assistants behave on Drupal projects.
+- [madsnorgaard.net](https://github.com/madsnorgaard/madsnorgaard.net) is this site: Nuxt 3, headless Drupal 11, a WordPress photo archive and one VPS. The repo is where I try things first.
 
-- Senior developer and DevOps engineer at **[Eksponent](https://eksponent.com)**, a Danish development agency.
-- Technical lead for **[South African History Online](https://www.sahistory.org.za)** since 2018, a long-term commitment to open knowledge.
-- I build headless CMS platforms, multi-tenant SaaS, and civic and municipal tech. Usually Drupal on the back, Vue and Nuxt on the front.
-- Documentary photographer on the side.
-- Currently deepening Nuxt 3 and headless Drupal 11 architectures.
+At work I build headless Drupal platforms and multi-tenant SaaS for Danish public sector clients, among them OS2udoglær and a Nordisk Film multisite.
 
----
+## Photography
 
-### Tech stack
+I lived in Cape Town for twelve years and photographed it the whole time. Documentary work, published in National Geographic and The Economist, with the archive at [madsnorgaard.net/archive](https://madsnorgaard.net/archive) and a [photographer page on Facebook](https://www.facebook.com/MadsNorgaardPhotographer).
 
-**Backend and CMS**
+## Elsewhere
 
-![Drupal](https://img.shields.io/badge/Drupal_10--11-0678BE?style=flat-square&logo=drupal&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JSON:API](https://img.shields.io/badge/JSON:API-000000?style=flat-square&logo=json&logoColor=white)
-
-**Frontend**
-
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-
-**DevOps and infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Platform.sh](https://img.shields.io/badge/Platform.sh-1A182B?style=flat-square&logo=platformdotsh&logoColor=white)
-
-**Data and search**
-
-![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### Selected projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **South African History Online** | Public history archive I have led since 2018 | Drupal, Solr |
-| **OS2udoglær** | Headless Drupal SaaS for Danish municipalities | Drupal, multi-tenant |
-| **ÅbenForms** | Civic-tech forms platform | Drupal 11, Nuxt 3 |
-| **Nordisk Film** | Headless Drupal multisite | Drupal, JSON:API |
-| **madsnorgaard.net** | Self-hosted personal portfolio | Nuxt, Docker |
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madsnorgaard&show_icons=true&theme=default&hide_border=true" alt="Mads' GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsnorgaard&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=madsnorgaard&hide_border=true" alt="GitHub streak">
-</p>
-
----
-
-<p align="center"><i>Open source, civic tech, and the long game.</i></p>
+[madsnorgaard.net](https://madsnorgaard.net) · [LinkedIn](https://www.linkedin.com/in/mads-norgaard/) · [drupal.org](https://www.drupal.org/u/madsnorgaard) · [The DropTimes](https://www.thedroptimes.com/people/34313/madsnorgaard) · mads@madsnorgaard.net
