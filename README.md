@@ -1,6 +1,6 @@
 # Mads Nørgaard
 
-Senior developer and DevOps engineer at [Eksponent](https://eksponent.com), a Danish development agency. Based in Skanderborg, Denmark. Technical lead for [South African History Online](https://www.sahistory.org.za), which I do in the evenings and for free. Documentary photographer when there is time left.
+Senior developer and DevOps engineer at [Eksponent](https://eksponent.com), a Danish development agency. Based in Skanderborg, Denmark. Technical lead for [South African History Online](https://www.sahistory.org.za) since 2010, which I do in the evenings and for free. Documentary photographer when there is time left.
 
 Self-taught. Fifteen years of Drupal, PHP, Docker and Linux, and the last few of those with Nuxt in front of a headless Drupal. I run my own infrastructure and write about it at [madsnorgaard.net](https://madsnorgaard.net).
 
